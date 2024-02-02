@@ -1,17 +1,18 @@
-# Simple drawing robot with Arduino
+# Arduino drawing robot
+_Simple beginner project to learn the basics of electronics and programming._<br>
 
-## Material needed:
-- 1x Arduino Uno
-- 2x 10kΩ potentiometers
-- 2x SG90 micro servo motors
-- Jumper wires
-- Breadboard
-- 1x M3x5 threaded insert
-- M3 screw
+Create your own drawing robot with two axes, which you can control using potentiometers.
+
+<img src="pics/8_complete.jpg" >
+
+## Build instructions
+instructions\build-instructions.md
+
+## Printer settings
+instructions\build-instructions.md
+
+## 3d printer files
+3d files
 
 ## Wiring diagram
-![Fritzing wiring diagram](/wiring/wiring-fritzing.png)
-- Servo 1: PIN 9
-- Servo 2: PIN 10
-- Potentiometer 1: PIN A1
-- Potentiometer 2: PIN A2
+<img src="pics/2_wiring-diagram.png" >
