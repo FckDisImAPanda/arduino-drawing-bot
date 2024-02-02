@@ -98,7 +98,7 @@ Turn both potentiometers as far counterclockwise as possible. Then put the servo
 <img src="../pics/7_combine-servos.jpg" width="80%">
 
 ## Step 8
-Insert the bold and a pen.
+Insert the bold and a pen.<br>
 <img src="../pics/8_complete.jpg" width="80%">
 
 ## Step 9
